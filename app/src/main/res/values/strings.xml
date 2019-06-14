@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ThreadBarzel</string>
+    <string name="activity_main_button_get_title">Load User ID</string>
+    <string name="activity_main_edit_text_hint">User id between 1 and 10...</string>
+    <string name="activity_main_edit_text_input_error">Input should be a number between 1 and 10...</string>
+
+</resources>
